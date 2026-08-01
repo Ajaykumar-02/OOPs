@@ -63,27 +63,6 @@ Problem: Add a static method to the Car class that returns a general description
 
 <details>
 <summary>
-8. Property Decorators
-</summary>
-Problem: Use a property decorator in the Car class to make the model attribute read-only.
-</details>
 
-
-
-<details>
-<summary>
-9. Class Inheritance and isinstance() Function
-</summary>
-Problem: Demonstrate the use of isinstance() to check if my_tesla is an instance of Car and ElectricCar.
-</details>
-
-
-
-<details>
-<summary>
-10. Multiple Inheritance
-</summary>
-Problem: Create two classes Battery and Engine, and let the ElectricCar class inherit from both, demonstrating multiple inheritance.
-</details>
 
 
